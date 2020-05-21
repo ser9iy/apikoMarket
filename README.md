@@ -1,2 +1,1 @@
-# apikoMarket
-apikoMarket
+# 8th-react-intensive-Tsyb-Sergiy
